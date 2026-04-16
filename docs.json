@@ -85,7 +85,10 @@
       },
       {
         "tab": "Get Startet",
-        "icon": "rocket-launch"
+        "icon": "rocket-launch",
+        "pages": [
+          "quickstart-1"
+        ]
       }
     ]
   },
