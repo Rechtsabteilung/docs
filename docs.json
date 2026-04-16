@@ -87,6 +87,10 @@
         "tab": "Get Startet",
         "icon": "rocket-launch",
         "pages": [
+          {
+            "group": "Features",
+            "pages": []
+          },
           "quickstart-1"
         ]
       }
