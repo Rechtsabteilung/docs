@@ -18,7 +18,10 @@
         ]
       },
       {
-        "tab": "Funktionen"
+        "tab": "Funktionen",
+        "pages": [
+          "aktenuebersicht"
+        ]
       },
       {
         "tab": "Use Cases"
