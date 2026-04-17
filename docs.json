@@ -56,10 +56,7 @@
      "vscode"
    ]
   },
-  "logo": {
-    "light": "/logo/LCM_LOGO.PNG",
-    "dark": "/logo/LCM_LOGO.PNG"
-  },
   "favicon": "/LCM_Favicon.png",
-  "description": "Das ist die Dokumentation der Software Legal Case Manager"
+  "description": "Das ist die Dokumentation der Software Legal Case Manager",
+  "logo": "/images/20250907_LCM_Logo_positive.svg"
 }

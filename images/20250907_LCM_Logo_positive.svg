@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1144 419.1">
+  <!-- Generator: Adobe Illustrator 29.8.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 160)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #3b0764;
+        font-family: ProximaNova-Bold, 'Proxima Nova';
+        font-size: 111.27px;
+        font-weight: 700;
+      }
+
+      .st0, .st1 {
+        isolation: isolate;
+      }
+
+      .st2 {
+        fill: #fb923c;
+      }
+
+      .st2, .st3 {
+        fill-rule: evenodd;
+      }
+
+      .st3 {
+        fill: #ea580c;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="st2" d="M189.27,90.4v85.77l128.07-75.1,28.63,16.69v183.43l-48.88,28.59v-144.03l-107.67,63.51v73.71l85.58-51v70.31l-85.58,50.84v25.96l89.54-52.54,89.24-52.39V104.93l-89.54-52.39L189.27,0v25.96l106.3,62.28-50.25,29.52-56.04-32.92s0,5.56,0,5.56Z"/>
+    <path class="st3" d="M189.27,84.84l-56.04,32.92-50.25-29.52,106.3-62.28V0l-89.54,52.54L10.49,104.93v209.24l89.24,52.39,89.54,52.54v-25.96l-85.58-50.84v-70.31l85.58,51v-73.71l-107.67-63.51v144.03l-48.88-28.59V117.76l28.63-16.69,128.07,75.1v-91.33h-.15Z"/>
+  </g>
+  <g class="st1">
+    <text class="st0" transform="translate(415.65 179.06) scale(.99 1)"><tspan x="0" y="0">LEGAL CASE</tspan></text>
+    <text class="st0" transform="translate(415.65 312.58) scale(.99 1)"><tspan x="0" y="0">MANAGER</tspan></text>
+  </g>
+</svg>
