@@ -26,10 +26,6 @@
       }
     ]
   },
-  "logo": {
-    "light": "/logo/LCM Logo.png",
-    "dark": "/logo/LCM Logo.png"
-  },
   "navbar": {
     "links": [
       {
@@ -54,5 +50,9 @@
      "cursor",
      "vscode"
    ]
+  },
+  "logo": {
+    "light": "/logo/LCM Logo.png",
+    "dark": "/logo/LCM Logo.png"
   }
 }
