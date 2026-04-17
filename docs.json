@@ -37,8 +37,8 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Login",
+      "href": "https://lcm.legal"
     }
   },
   "contextual": {
