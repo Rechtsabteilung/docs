@@ -20,7 +20,8 @@
       {
         "tab": "Funktionen",
         "pages": [
-          "aktenuebersicht"
+          "aktenuebersicht",
+          "akten-hinzufuegen"
         ]
       },
       {
