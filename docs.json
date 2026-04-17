@@ -14,12 +14,15 @@
         "tab": "Get Startet",
         "icon": "rocket-launch",
         "pages": [
-          "Schnellstart",
-          "einfuehrung"
+          "einfuehrung",
+          "Schnellstart"
         ]
       },
       {
         "tab": "Funktionen"
+      },
+      {
+        "tab": "Community Marketplace"
       }
     ]
   },
