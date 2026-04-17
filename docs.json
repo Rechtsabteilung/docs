@@ -87,7 +87,6 @@
         "tab": "Get Startet",
         "icon": "rocket-launch",
         "pages": [
-          "einfuehrung",
           "Schnellstart"
         ]
       },
