@@ -19,7 +19,12 @@
         ]
       },
       {
-        "tab": "Funktionen"
+        "tab": "Funktionen",
+        "anchors": [
+          {
+            "anchor": "Untitled Anchor"
+          }
+        ]
       },
       {
         "tab": "Community Marketplace"
