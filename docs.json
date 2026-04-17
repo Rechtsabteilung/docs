@@ -7,7 +7,6 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
@@ -57,5 +56,6 @@
   "logo": {
     "light": "/logo/LCM_LOGO.PNG",
     "dark": "/logo/LCM_LOGO.PNG"
-  }
+  },
+  "favicon": "/LCM_Favicon.png"
 }
