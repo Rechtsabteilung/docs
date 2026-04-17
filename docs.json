@@ -19,12 +19,7 @@
         ]
       },
       {
-        "tab": "Funktionen",
-        "anchors": [
-          {
-            "anchor": "Untitled Anchor"
-          }
-        ]
+        "tab": "Funktionen"
       },
       {
         "tab": "Community Marketplace"
@@ -33,8 +28,7 @@
   },
   "logo": {
     "light": "/logo/LCM Logo.png",
-    "dark": "/logo/LCM Logo.png",
-    "href": "https://www.legalpioneers.de/"
+    "dark": "/logo/LCM Logo.png"
   },
   "navbar": {
     "links": [
