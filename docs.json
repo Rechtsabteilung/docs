@@ -38,13 +38,19 @@
               "importieren"
             ]
           },
-          "dokumente",
           {
-            "group": "Privatrechtsmatrix",
-            "pages": []
+            "group": "Dokumentenansicht",
+            "pages": [
+              "import-von-dokumenten",
+              "strukturierung"
+            ]
           },
           {
             "group": "Dynamische Relation",
+            "pages": []
+          },
+          {
+            "group": "Privatrechtsmatrix",
             "pages": []
           },
           "prognosetool",
