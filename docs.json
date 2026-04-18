@@ -72,7 +72,10 @@
         ]
       },
       {
-        "tab": "Community Marketplace"
+        "tab": "Community Marketplace",
+        "pages": [
+          "funktion"
+        ]
       }
     ]
   },
