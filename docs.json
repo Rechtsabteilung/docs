@@ -21,7 +21,12 @@
         "tab": "Funktionen",
         "pages": [
           "aktenuebersicht",
-          "akten-hinzufuegen"
+          "navigation",
+          "akten-hinzufuegen",
+          "cockpit",
+          "aktennavigation",
+          "antraege",
+          "dokumente"
         ]
       },
       {
