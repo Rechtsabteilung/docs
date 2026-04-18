@@ -27,7 +27,27 @@
           "aktennavigation",
           "antraege",
           "norm-hinzufuegen",
-          "dokumente"
+          {
+            "group": "Struktureditor",
+            "pages": [
+              "strukturen-anlegen",
+              "schreibtipps-strukturen",
+              "strukturen-auswaehlen"
+            ]
+          },
+          "dokumente",
+          {
+            "group": "Privatrechtsmatrix",
+            "pages": []
+          },
+          {
+            "group": "Dynamische Relation",
+            "pages": []
+          },
+          "prognosetool",
+          "textproduktion",
+          "einstellungen",
+          "rechte-and-rollen"
         ]
       },
       {
