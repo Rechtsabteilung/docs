@@ -79,6 +79,15 @@
           "nutzung-als-nachfragende-r",
           "rahmenbedingungen"
         ]
+      },
+      {
+        "tab": "FAQ"
+      },
+      {
+        "tab": "Glossar",
+        "pages": [
+          "glossar"
+        ]
       }
     ]
   },
