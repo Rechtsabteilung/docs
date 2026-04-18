@@ -26,11 +26,19 @@
           "cockpit",
           "aktennavigation",
           "antraege",
+          "norm-hinzufuegen",
           "dokumente"
         ]
       },
       {
-        "tab": "Use Cases"
+        "tab": "Use Cases",
+        "pages": [
+          "klage-wizzard",
+          "relationstabelle-erstellen",
+          "analyse-rechtsstreit",
+          "1-click-schreiben-vor-gerichtlich",
+          "prozessprognose"
+        ]
       },
       {
         "tab": "Community Marketplace"
