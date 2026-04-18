@@ -32,7 +32,9 @@
             "pages": [
               "strukturen-anlegen",
               "schreibtipps-strukturen",
-              "strukturen-auswaehlen"
+              "strukturen-auswaehlen",
+              "exportieren",
+              "importieren"
             ]
           },
           "dokumente",
