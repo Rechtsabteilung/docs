@@ -26,14 +26,20 @@
           "akten-hinzufuegen",
           "cockpit",
           "aktennavigation",
-          "antraege",
-          "norm-hinzufuegen",
+          {
+            "group": "Strukturierung",
+            "pages": [
+              "antraege",
+              "norm-hinzufuegen"
+            ]
+          },
           {
             "group": "Struktureditor",
             "pages": [
               "funktionsweise",
               "anwendungsfelder-im-lcm",
               "strukturen-anlegen",
+              "struktureditor-kennenlernen",
               "neue-strukturen-eingeben",
               "schreibtipps-strukturen",
               "exportieren",
