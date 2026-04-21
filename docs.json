@@ -14,7 +14,9 @@
         "icon": "rocket-launch",
         "pages": [
           "einfuehrung",
-          "Schnellstart"
+          "Schnellstart",
+          "uebersicht",
+          "roadmap-entwicklung"
         ]
       },
       {
