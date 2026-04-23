@@ -75,10 +75,11 @@
         "icon": "arrow-up-right-dots",
         "pages": [
           "klage-wizzard",
+          "klageerwiderung-erstellen",
           "relationstabelle-erstellen",
           "analyse-rechtsstreit",
-          "1-click-schreiben-vor-gerichtlich",
-          "prozessprognose"
+          "prozessprognose",
+          "1-click-schreiben-vor-gerichtlich"
         ]
       },
       {
