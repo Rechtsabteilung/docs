@@ -42,6 +42,14 @@
               "anwendungsfelder-im-lcm",
               "strukturen-anlegen",
               "struktureditor-kennenlernen",
+              {
+                "group": "Inhalte",
+                "pages": [
+                  "inhalte-von-standardstrukturen",
+                  "inhalte-von-normen",
+                  "inhalte-von-merkmalen"
+                ]
+              },
               "neue-strukturen-eingeben",
               "verweise-auf-strukturinhalte",
               "schreibtipps-strukturen",
