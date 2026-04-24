@@ -18,9 +18,44 @@ title: "Merkmale"
   <Frame>
     ![Image](/images/image-26.png)
   </Frame>
-  - "**_kumulativ_**": Damit die übergeordnete Struktur vorliegt, müssen alle Merkmale der nachgeordneten Struktur vorliegen.
-  - "**_alternativ_**": Damit die übergeordnete Struktur vorliegt, darf nur genau ein Merkmal der nachgeordneten Struktur vorliegen.
-  - "**_wahlweise_**": Damit die übergeordnete Struktur vorliegt, muss mindestens ein Merkmal der nachgeordneten Struktur vorliegen, es können aber auch mehrere oder alle Merkmale vorliegen
+
+- "**_kumulativ_**": Damit die übergeordnete Struktur vorliegt, müssen alle Merkmale der nachgeordneten Struktur vorliegen.
+- "**_alternativ_**": Damit die übergeordnete Struktur vorliegt, darf nur genau ein Merkmal der nachgeordneten Struktur vorliegen.
+- "**_wahlweise_**": Damit die übergeordnete Struktur vorliegt, muss mindestens ein Merkmal der nachgeordneten Struktur vorliegen, es können aber auch mehrere oder alle Merkmale vorliegen
+
+```text highlight={8,12,17}
+Ordnung von Tatbestandsmerkmalen und Submerkmalen: 
+Es sind alternative, kumulative und wahlweise Beziehungen möglich
+
+Rechtsfolgeziel 1 (mehrere Unter-Differenzierungen)
+- Norm 1 (Anspruchsgrundlagen, Gegennormen,)
+	- Tatbestandsmerkmal 1 der Norm 1
+		- Sub-Merkmal 1 des Tatbestandsmerkmals 1
+		- Sub-Merkmal 2 des Tatbestandsmerkmals 1
+		= kumulativ = alle Merkmale müssen vorliegen
+	- Tatbestandsmerkmal 2 der Norm 1
+		- Sub-Merkmal 1 des Tatbestandsmerkmals 2
+		- Sub-Merkmal 2 des Tatbestandsmerkmals 2
+		= alternativ = nur genau ein Merkmal darf vorliegen
+	- Tatbestandsmerkmal 2 der Norm 1
+		- Sub-Merkmal 1 des Tatbestandsmerkmals 2
+		- Sub-Merkmal 2 des Tatbestandsmerkmals 2
+		= wahlweise = mindestens ein Merkmal muss vorliegen
+
+- Norm 2 (Anspruchsgrundlagen, Gegennormen)
+...
+
+Rechtsfolgeziel 2: 
+...
+```
+
+<Note>
+  1. Die Tatbestandsvoraussetzungen einer Norm und die Submerkmale können beliebig kumulativ, alternativ und wahlweise vorliegen. Das gleiche gilt für Sub-Merkmale einer Tatbestandsvoraussetzung und Sub-Sub-Merkmale eines Sub-Merkmals usw.
+  2. Innerhalb einer Ebene (z.B. Tatbestandsmerkmale einer Norm oder Merkmale eines Tatbestandsmerkmals) muss logisch derselbe Typ eingestellt sein, sonst zeigt der Editor einen Fehler an.
+</Note>
+
+Regeln für die Typ-Eingabe von Merkmalen
+
 - **Darlegungs- und Beweislast**: Hier wird eingetragen, welche Partei grundsätzlich die Darlegungs- und Beweislast trägt.
   <Warning>
     Durch diese Angaben werden zahlreiche Automatismen bei den verschiedenen Tools des LCM ausgelöst (Klage-Assistent, Visualisierung in der Dynamischen Relation, Analyse in der Rechtsmatrix, Einschätzung der Prozessprognose usw.) und die Eintragung sollte besonders sorgfältig erfolgen.
@@ -28,6 +63,9 @@ title: "Merkmale"
   <Frame>
     ![Image](/images/image-29.png)
   </Frame>
+  <Note>
+    Es ist die jeweilige Darlegungs- und Beweislast einzugeben, wenn diese klar ist. Diese Eingabe hat Folgen für die automatisierte Analyse des Rechtsstreits in der Privatrechtsmatrix, sodass diese Angaben stimmen müssen. Fehler bei der Eingabe produziert Fehler bei der Anwendung. Steht die Darlegungs- und Beweislast nicht fest oder kommt dies auf die Prozesssituation an, bleibt der Eintrag im Struktureditor offen ("keine Zuordnung") und es erscheint bei Anwendung des Systems ein Fragezeichen, sodass die Nutzer:innen selbst im konkreten Fall entscheiden müssen.
+  </Note>
 - **Status**: Information an die Nutzer, in welchem Status sich die Norm befindet: in Bearbeitung, zur Freigabe, validiert, zu korrigieren
 - **Notizen**: Freifeld, um Informationen an die Nutzer:innen zu formulieren
   <Warning>
@@ -66,6 +104,12 @@ Der Tab "Textproduktion" enthält die spezifischen Informationen zu den Merkmale
   - Textproduktion: Einführungssatz
   - Textproduktion: Merkmal liegt vor
   - Textproduktion: Merkmal liegt nicht vor
+</Warning>
+
+Wichtig zu beachten: Die Qualität des Outputs der Funktionen und Tools des LCM hängt ganz entscheidend von der Qualität der Eingaben im LCM ab ("_garbage in, garbage out_").
+
+<Warning>
+  Durch diese Angaben werden zahlreiche Automatismen bei den verschiedenen Tools des LCM ausgelöst (Klage-Assistent, Visualisierung in der Dynamischen Relation, Analyse in der Rechtsmatrix, Einschätzung der Prozessprognose usw.) und die Eintragung sollte besonders sorgfältig erfolgen.
 </Warning>
 
 ## Versionen (3. Tab)
